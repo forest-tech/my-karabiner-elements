@@ -75,7 +75,7 @@
          ]
       },
       {
-         "description": " JK/DF to Meh, JKL/SDF to Hyper",
+         "description": " JK/DF to Meh, UI/ER to Hyper",
          "manipulators": [
             {
                "type": "basic",
@@ -138,13 +138,10 @@
                "from": {
                   "simultaneous": [
                      {
-                        "key_code": "j"
+                        "key_code": "u"
                      },
                      {
-                        "key_code": "k"
-                     },
-                     {
-                        "key_code": "l"
+                        "key_code": "i"
                      }
                   ],
                   "simultaneous_options": {
@@ -170,13 +167,10 @@
                "from": {
                   "simultaneous": [
                      {
-                        "key_code": "d"
+                        "key_code": "e"
                      },
                      {
-                        "key_code": "f"
-                     },
-                     {
-                        "key_code": "s"
+                        "key_code": "r"
                      }
                   ],
                   "simultaneous_options": {
