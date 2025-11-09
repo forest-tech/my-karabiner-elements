@@ -4,6 +4,11 @@
 
 macOS(JIS配列)
 
+## 使い方
+
+1. `~/.config/karabiner/assets/complex_modificaions/`にjsonファイルを置く
+2. Karabiner-Elements.app を開いてcomplex modifications から有効化する
+
 ## ファイル
 
 - `emacs_keybindings.json`: Emacsのキーバインド関係の設定．基本的にはEmacsの操作と普通の操作のズレ(Ctrl+m と Enter のズレなど)を補正する．
