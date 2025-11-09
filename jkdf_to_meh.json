@@ -1,0 +1,71 @@
+{
+  "title": "JK/DF to Meh",
+  "rules": [
+    {
+      "description": "Simultaneous JK to Meh",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {
+                "key_code": "j"
+              },
+              {
+                "key_code": "k"
+              }
+            ],
+            "simultaneous_options": {
+              "detect_key_down_uninterruptedly": true,
+              "key_down_order": "insensitive",
+              "key_up_order": "insensitive",
+              "to_after_key_up": []
+            }
+          },
+          "to": [
+            {
+              "key_code": "right_shift",
+              "modifiers": [
+                "right_control",
+                "right_option"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Simultaneous DF to Meh",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {
+                "key_code": "d"
+              },
+              {
+                "key_code": "f"
+              }
+            ],
+            "simultaneous_options": {
+              "detect_key_down_uninterruptedly": true,
+              "key_down_order": "insensitive",
+              "key_up_order": "insensitive",
+              "to_after_key_up": []
+            }
+          },
+          "to": [
+            {
+              "key_code": "right_shift",
+              "modifiers": [
+                "right_control",
+                "right_option"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

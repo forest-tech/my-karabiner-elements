@@ -10,10 +10,10 @@
                },
                "to": [
                   {
-                     "key_code": "left_shift",
+                     "key_code": "right_shift",
                      "modifiers": [
-                        "left_control",
-                        "left_option"
+                        "right_control",
+                        "right_option"
                      ]
                   }
                ],
@@ -57,11 +57,11 @@
                },
                "to": [
                   {
-                     "key_code": "left_shift",
+                     "key_code": "right_shift",
                      "lazy": true,
                      "modifiers": [
-                        "left_control",
-                        "left_option"
+                        "right_control",
+                        "right_option"
                      ]
                   }
                ],
@@ -83,9 +83,9 @@
                   "key_code": "q",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -107,9 +107,9 @@
                   "key_code": "w",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -129,9 +129,9 @@
                   "key_code": "e",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -153,9 +153,9 @@
                   "key_code": "r",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -177,9 +177,9 @@
                   "key_code": "t",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -201,9 +201,9 @@
                   "key_code": "a",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -225,9 +225,9 @@
                   "key_code": "s",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -249,9 +249,9 @@
                   "key_code": "d",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -273,9 +273,9 @@
                   "key_code": "f",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -297,9 +297,9 @@
                   "key_code": "g",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -318,9 +318,9 @@
                   "key_code": "z",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -339,9 +339,9 @@
                   "key_code": "x",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -363,9 +363,9 @@
                   "key_code": "c",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -387,9 +387,9 @@
                   "key_code": "v",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -408,9 +408,9 @@
                   "key_code": "b",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -432,9 +432,9 @@
                   "key_code": "y",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -456,9 +456,9 @@
                   "key_code": "u",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -477,9 +477,9 @@
                   "key_code": "i",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -498,9 +498,9 @@
                   "key_code": "o",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -519,9 +519,9 @@
                   "key_code": "p",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -540,9 +540,9 @@
                   "key_code": "h",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -564,9 +564,9 @@
                   "key_code": "j",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -585,9 +585,9 @@
                   "key_code": "k",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -606,9 +606,9 @@
                   "key_code": "l",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -627,9 +627,9 @@
                   "key_code": "semicolon",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -651,9 +651,9 @@
                   "key_code": "n",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -673,9 +673,9 @@
                   "key_code": "m",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -694,9 +694,9 @@
                   "key_code": "comma",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -715,9 +715,9 @@
                   "key_code": "period",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -736,9 +736,9 @@
                   "key_code": "slash",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
@@ -760,9 +760,9 @@
                   "key_code": "spacebar",
                   "modifiers": {
                      "mandatory": [
-                        "left_control",
-                        "left_shift",
-                        "left_option"
+                        "right_control",
+                        "right_shift",
+                        "right_option"
                      ],
                      "optional": [
                         "any"
