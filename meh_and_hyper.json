@@ -75,15 +75,12 @@
          ]
       },
       {
-         "description": " JK/DF to Meh, JKL/SDF to Hyper",
+         "description": " JK/DF to Meh, KL/SD to Hyper",
          "manipulators": [
             {
                "type": "basic",
                "from": {
                   "simultaneous": [
-                     {
-                        "key_code": "j"
-                     },
                      {
                         "key_code": "k"
                      },
@@ -146,9 +143,6 @@
                      },
                      {
                         "key_code": "d"
-                     },
-                     {
-                        "key_code": "f"
                      }
                   ],
                   "simultaneous_options": {
