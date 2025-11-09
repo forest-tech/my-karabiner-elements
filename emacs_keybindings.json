@@ -2,7 +2,7 @@
     "title": "Emacsキーバインド関係の自分の環境設定",
     "rules": [
         {
-            "description": "Emacs風キーバインド: スペースバーを左Ctrlキーとして動作させる（単独押下時はスペース）",
+            "description": "Emacs: スペースバーを左Ctrlキーとして動作させる（単独押下時はスペース）",
             "manipulators": [
                 {
                     "from": {
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "description": "Emacs風キーバインド: 左CtrlキーをEscキーとして動作させる（単独押下時）",
+            "description": "Emacs: 左CtrlキーをEscキーとして動作させる（単独押下時）",
             "manipulators": [
                 {
                     "from": {
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "description": "Emacs風キーバインド: Ctrl+y を Command+v に、Ctrl+w を Command+c に変換",
+            "description": "Emacs: Ctrl+y を Command+v に、Ctrl+w を Command+c に変換",
             "manipulators": [
                 {
                     "from": {
@@ -105,7 +105,7 @@
             ]
         },
         {
-            "description": "Emacs風キーバインド: Ctrl+i を Tab に変換",
+            "description": "Emacs: Ctrl+i を Tab に変換",
             "manipulators": [
                 {
                     "from": {
@@ -132,7 +132,7 @@
             ]
         },
         {
-            "description": "Emacs風キーバインド: Ctrl+m を Enter に変換",
+            "description": "Emacs: Ctrl+m を Enter に変換",
             "manipulators": [
                 {
                     "from": {
@@ -159,7 +159,7 @@
             ]
         },
         {
-            "description": "Emacs風キーバインド: 方向入力を矢印キーに変換",
+            "description": "Emacs: 方向入力を矢印キーに変換",
             "manipulators": [
                 {
                     "from": {
