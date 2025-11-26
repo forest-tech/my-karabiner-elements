@@ -250,6 +250,36 @@
                     "type": "basic"
                 }
             ]
+        },
+        {
+            "description": "Emacs: Ctrl+/ を Command+z に変換",
+            "manipulators": [
+                {
+                    "from": {
+                        "key_code": "slash",
+                        "modifiers": {
+                            "mandatory": [
+                                "control"
+                            ],
+                            "optional": [
+                                "caps_lock",
+                                "shift",
+                                "option",
+                                "command"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "z",
+                            "modifiers": [
+                                "command"
+                            ]
+                        }
+                    ],
+                    "type": "basic"
+                }
+            ]
         }
     ]
 }
