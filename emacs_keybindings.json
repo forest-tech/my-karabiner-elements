@@ -159,6 +159,22 @@
             ]
         },
         {
+            "description": "Emacs: Ctrl+h を backspace に変換",
+            "manipulators": [
+                {
+                    "from": {
+                        "key_code": "h",
+                        "modifiers": {
+                            "mandatory": ["control"],
+                            "optional": ["caps_lock", "shift", "option", "command"]
+                        }
+                    },
+                    "to": [{ "key_code": "delete_or_backspace" }],
+                    "type": "basic"
+                }
+            ]
+        },
+        {
             "description": "Emacs: 方向入力を矢印キーに変換",
             "manipulators": [
                 {
